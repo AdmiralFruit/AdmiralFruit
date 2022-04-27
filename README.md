@@ -20,9 +20,12 @@
 </h1>
 
 ### :diamonds: About Me :
-I am Divyam Gupta. My interests include finance, algorithm design, web development, history, pool, manga and bowling. 
-Visit my webpage at: https://admiralfruit.github.io/
-
+<p align="left">
+  I am Divyam Gupta. My interests include finance, algorithm design, web development, history, pool, manga and bowling. 
+</p>
+<p align="left">
+  Visit my webpage at: https://admiralfruit.github.io/
+</p>
 
 ### :diamonds: Languages and Tools :
 <div>
