@@ -35,6 +35,6 @@
 </div>
 
 ### :diamonds: Stats :
-[![Divyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdmiralFruit&show_icons=true&theme=radical)](https://github.com//github-readme-stats)
+[![Divyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdmiralFruit&show_icons=true&theme=highcontrast)](https://github.com//github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdmiralFruit&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdmiralFruit)](https://github.com/anuraghazra/github-readme-stats)
