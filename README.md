@@ -20,15 +20,15 @@
 </h1>
 
 ### :diamonds: About Me :
-<p align="left">
+<p align="center">
   I am Divyam Gupta. My interests include finance, algorithm design, web development, history, pool, manga and bowling. 
 </p>
-<p align="left">
+<p align="center">
   Visit my webpage at: https://admiralfruit.github.io/
 </p>
 
 ### :diamonds: Languages and Tools :
-<div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>
