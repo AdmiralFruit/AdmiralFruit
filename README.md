@@ -35,16 +35,12 @@
 </div>
 
 ### :diamonds: Stats :
-[![Divyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdmiralFruit&show_icons=true&theme=highcontrast)](https://github.com//github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdmiralFruit&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdmiralFruit&show_icons=true&theme=highcontrast" alt="Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdmiralFruit&layout=compact&theme=highcontrast" alt="Stats"/>
 </p>
 
