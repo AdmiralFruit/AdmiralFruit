@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="500" height="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -18,7 +18,9 @@
   Helloooo!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
+### :diamonds: About Me :
+I am Divyam Gupta. My interests include finance, algorithm design, web development, history, pool, manga and bowling. 
+Visit my webpage at: https://admiralfruit.github.io/
 ### :diamonds: Languages and Tools :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
