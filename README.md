@@ -9,7 +9,7 @@
   <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=divyam20058@iiitd.ac.in&tf=1">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/DG_050602">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
